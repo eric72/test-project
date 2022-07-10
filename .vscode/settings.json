@@ -1,0 +1,10 @@
+{
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true,
+        "source.fixAll": true
+      },
+      "workbench.colorCustomizations": {
+        "activityBar.background": "#8502ff"
+      }
+    // "eslint.autoFixOnSave": true,
+}
